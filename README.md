@@ -94,20 +94,6 @@ CAMPUSTRACK-2.0/
 (I can update this with your real folder structure — share it when ready.)
 
 
----
-
-📸 Screenshots
-
-You can add screenshots like this:
-
-![Homepage Screenshot](assets/images/homepage.png)
-![Departments Section](assets/images/departments.png)
-
-If you want, I can generate properly formatted screenshot sections once you upload images.
-
-
----
-
 🔧 Installation & Setup
 
 Clone the repository:
